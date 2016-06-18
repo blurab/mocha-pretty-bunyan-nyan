@@ -41,10 +41,10 @@ mocha --reporter mocha-pretty-bunyan-nyan
 ```
 ## mochabunyan.opts
 
-It is possible to configure few things by putting in the test directory a file **mochabunyan.opts** that could contains the following options:  
-**mute** set it true if you want to mute all logs
-**level** if you want to set the global log level
-**reporter** if you want to use a different reporter that nyan
+It is possible to configure few things by putting in the test directory a file **test/mochabunyan.opts** that could contains the following options:  
+**mute** set it true if you want to mute all logs  
+**level** if you want to set the global log level  
+**reporter** if you want to use a different reporter that nyan  
 
 ex:
 {
