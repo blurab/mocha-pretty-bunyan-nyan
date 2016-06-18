@@ -11,11 +11,11 @@ bunyan is a pretty nice package to log in json format, and provides an awesome c
 ## Install
 
 ```
-npm install mocha-pretty-bunyan-reporter --save-dev
+npm install mocha-pretty-bunyan-nyan --save-dev
 ```
 
 ## Usage
 
 ```
-mocha --reporter mocha-pretty-bunyan-reporter
+mocha --reporter mocha-pretty-bunyan-nyan
 ```
